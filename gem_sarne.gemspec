@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = GemSarne::VERSION
   spec.authors       = ["Billy Reisinger"]
   spec.email         = ["billy.reisinger@govdelivery.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Gemes Sarne}
+  spec.description   = %q{Death Stare}
+  spec.homepage      = "http://github.com/govdelivery/gem_sarne"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
