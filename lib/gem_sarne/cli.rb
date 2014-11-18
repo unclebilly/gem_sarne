@@ -1,8 +1,8 @@
 module GemSarne
   class Cli
     def self.run(argv)
-      10.times do
-        Launchy.open(File.expand_path("../../media/jim-sarne.png", __FILE__))
+      Dir[File.expand_path("../../media/*", __FILE__)].each do |file|
+        Launchy.open(file)
       end
     end
   end
