@@ -1,10 +1,7 @@
-module GemSarne
+class GemSarne
   class Cli
     def self.run(argv)
-      Dir[File.expand_path("../../media/*", __FILE__)].each do |file|
-        Launchy.open(file)
-      end
-      `say gem sarne`
+      GemSarne.instance.run
     end
   end
 end
