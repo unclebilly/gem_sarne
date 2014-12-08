@@ -1,5 +1,7 @@
 # GemSarne
 
+[![Build Status](https://travis-ci.org/govdelivery/gem_sarne.svg)](https://travis-ci.org/govdelivery/gem_sarne)
+
 TODO: Write a gem description
 
 ## Installation
