@@ -1,6 +1,6 @@
 # GemSarne
 
-[![Build Status](https://travis-ci.org/govdelivery/gem_sarne.svg)](https://travis-ci.org/govdelivery/gem_sarne)
+[![Build Status](https://travis-ci.org/unclebilly/gem_sarne.svg)](https://travis-ci.org/unclebilly/gem_sarne)
 
 TODO: Write a gem description
 
